@@ -6,7 +6,6 @@
   "url": "https://github.com/SudoAI-App/statorigin-mcp",
   "readme": "https://github.com/SudoAI-App/statorigin-mcp#readme",
   "runtime": "node",
-  "license": "MIT",
   "env": {},
   "remotes": [
     {
